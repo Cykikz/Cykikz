@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
@@ -141,7 +139,7 @@ me.say_hi()
 
 <table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 <div align="center">
 
@@ -177,7 +175,7 @@ me.say_hi()
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 <div align="center">
 
@@ -217,7 +215,7 @@ me.say_hi()
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 <div align="center">
 
@@ -256,7 +254,7 @@ me.say_hi()
 </div>
 
 </td>
-<td width="50%" valign="top">
+<td width="30%" valign="top">
 
 <div align="center">
 
@@ -296,7 +294,6 @@ me.say_hi()
 </td>
 </tr>
 </table>
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -366,7 +363,7 @@ Community & Growth
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+<br>
 
 ### 👁️ Profile Views
 
@@ -376,7 +373,7 @@ Community & Growth
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
 
----
+<br>
 
 <details>
 <summary><b>⚡ Fun Facts About Me</b></summary>
@@ -398,14 +395,11 @@ for fact, description in fun_facts.items():
 
 </details>
 
----
+<br>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cykikz&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 <br>
-
----
 
 <h3 align="center">💖 Thanks for stopping by! Let's build the future together 🚀</h3>
 
@@ -414,6 +408,8 @@ for fact, description in fun_facts.items():
 *"The best way to predict the future is to invent it."* — Alan Kay
 
 </h4>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3&height=120&section=footer&animation=twinkling" width="100%"/>
 
