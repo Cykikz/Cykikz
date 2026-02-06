@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Harshit%20Bhatt&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3&height=200&section=header&text=Harshit%20Bhatt&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
@@ -135,53 +135,83 @@ me.say_hi()
 
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Rocket.png" width="35" /> Featured Projects
 
 </div>
 
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Multi-Tool Desktop App
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<div align="center">
 
-**🔥 Modular AI-Powered Suite**
+### 🤖 AI Multi-Tool Desktop App
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" width="120" />
+
+**Modular AI-Powered Suite**
+
+</div>
 
 ```yaml
-Features:
-  - 🎥 Video Summarizer
-  - 🎭 Deepfake Detector
-  - 💬 Text-to-SQL Converter
+✨ Features:
+  🎥 Video Summarizer: AI-powered video analysis
+  🎭 Deepfake Detector: Identify synthetic media
+  💬 Text-to-SQL: Natural language to queries
   
-Tech Stack:
-  - Python | Ollama
-  - LLaMA 3.2 | Tkinter
+⚡ Tech Stack:
+  • Python with Tkinter GUI
+  • Ollama for local LLM inference
+  • LLaMA 3.2 for intelligence
+  • Custom RAG pipeline
   
-Status: 🔒 Private Development
+🔒 Status: Private Development
 ```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 Health & Nutrition Calculator
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100">
+<div align="center">
 
-**💪 Complete Health Planning Suite**
+### 🏥 Health & Nutrition Calculator
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Green%20Apple.png" width="120" />
+
+**Complete Health Planning Suite**
+
+</div>
 
 ```yaml
-Features:
-  - BMI & Calorie Calculator
-  - Macro/Micronutrient Planner
-  - Weight Journey Tracker
-  - 20+ Vitamins Database
+✨ Features:
+  📊 BMI & Calorie Calculator
+  🥗 Macro/Micronutrient Planning
+  📈 Weight Journey Tracker
+  💊 20+ Vitamins Database
+  📉 Visual Progress Charts
   
-Tech Stack:
-  - Python | Tkinter
-  - Glassmorphism UI
+⚡ Tech Stack:
+  • Python with modern Tkinter
+  • Glassmorphism UI Design
+  • Real-time calculations
+  • Data persistence
+  
+✅ Status: Production Ready
 ```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
 
 </td>
 </tr>
@@ -189,47 +219,84 @@ Tech Stack:
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Memory Match Deluxe
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<div align="center">
 
-**🃏 Premium Card Matching Game**
+### 🎮 Memory Match Deluxe
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="120" />
+
+**Premium Card Matching Game**
+
+</div>
 
 ```yaml
-Features:
-  - Multiple Game Modes
-  - Challenge Systems
-  - Avengers Themed Badges
-  - Web Audio API
+✨ Features:
+  🃏 Multiple Game Modes
+  ⏱️ Timed Challenges
+  🎯 Limited Moves Mode
+  🏆 Achievement System
+  🦸 Avengers Themed Cards
+  🔊 Web Audio API Integration
   
-Tech Stack:
-  - Vanilla JavaScript
-  - HTML5 | CSS3
+⚡ Tech Stack:
+  • Vanilla JavaScript (No frameworks!)
+  • HTML5 Canvas animations
+  • CSS3 with transitions
+  • Local Storage for progress
+  
+✅ Status: Live & Playable
 ```
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Tetris Python
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<div align="center">
 
-**👾 Classic Arcade Recreation**
+### 🎮 Tetris Python
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Joystick.png" width="120" />
+
+**Classic Arcade Recreation**
+
+</div>
 
 ```yaml
-Features:
-  - Smooth Gameplay
-  - Score & Level Tracking
-  - Classic Controls
-  - Retro Experience
+✨ Features:
+  🎯 Smooth 60 FPS Gameplay
+  📊 Score & Level System
+  🎨 Retro Pixel Graphics
+  ⌨️ Classic Controls
+  🎵 Sound Effects
+  💾 High Score Tracking
   
-Tech Stack:
-  - Python | Pygame
+⚡ Tech Stack:
+  • Python game loop architecture
+  • Pygame for rendering
+  • Object-oriented design
+  • Collision detection system
+  
+✅ Status: Complete & Polished
 ```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-00C853?style=flat-square&logo=python&logoColor=white)
+
+</div>
 
 </td>
 </tr>
 </table>
 
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -286,15 +353,14 @@ Community & Growth
 
 <br>
 
-### 💡 Open For
+### 💼 I'm Available For
 
-```
-💼 Freelance Projects  |  🤝 Collaborations  |  🎓 Mentorship  |  💬 Tech Discussions
-```
+<img src="https://img.shields.io/badge/🚀_Freelance_Projects-00D9FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤝_Open_Source_Collabs-00FF00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎓_Mentorship-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💬_Tech_Talks-FFD700?style=for-the-badge" />
 
-<br>
-
----
+<br><br>
 
 ### 💭 Daily Inspiration
 
@@ -321,7 +387,6 @@ fun_facts = {
     "⚡ Quick Learner": "I love diving deep into new technologies",
     "🎯 Problem Solver": "Every bug is just a puzzle waiting to be solved",
     "🌙 Night Owl": "Best code is written at 2 AM (don't @ me)",
-    "☕ Coffee Addict": "Powered by caffeine and curiosity",
     "🎨 UI Enthusiast": "Believer in beautiful, functional interfaces",
     "🎮 Gamer": "When not coding, probably gaming or thinking about game mechanics",
     "📚 Lifelong Student": "There's always something new to learn"
@@ -335,6 +400,13 @@ for fact, description in fun_facts.items():
 
 ---
 
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cykikz&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<br>
+
+---
+
 <h3 align="center">💖 Thanks for stopping by! Let's build the future together 🚀</h3>
 
 <h4 align="center">
@@ -343,6 +415,6 @@ for fact, description in fun_facts.items():
 
 </h4>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
