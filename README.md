@@ -48,7 +48,7 @@ me.say_hi()
 
 <table>
 <tr>
-<td width="30%">
+<td>
 
 ### 🤖 AI Multi-Tool Desktop App (Private)
 **Modular AI-powered application with:**
@@ -59,7 +59,7 @@ me.say_hi()
 **Tech:** Python • Ollama • LLaMA 3.2 • Tkinter
 
 </td>
-<td width="30%">
+<td>
 
 ### 🏥 Health & Nutrition Calculator
 **Comprehensive health planning suite:**
@@ -74,7 +74,7 @@ me.say_hi()
 </tr>
 
 <tr>
-<td width="30%">
+<td>
 
 ### 🎮 Memory Match Deluxe
 **Polished card matching game:**
@@ -86,7 +86,21 @@ me.say_hi()
 **Tech:** Vanilla JavaScript • HTML5 • CSS3
 
 </td>
-<td width="30%">
+<td>
+
+### 🎮 Tetris Python
+**Classic arcade game recreation:**
+- Smooth gameplay mechanics
+- Score tracking & levels
+- Classic Tetris controls
+- Retro gaming experience
+
+**Tech:** Python • Pygame
+
+</td>
+</tr>
+</table>
+
 
 ## 🎯 2026 Goals
 
