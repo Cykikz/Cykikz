@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00D9FF¢er=true&vCenter=true&random=false&width=900&height=100&lines=AI+%2F+ML+Developer+%F0%9F%A4%96;Generative+AI+Enthusiast+%F0%9F%A7%A0;Game+Development+Creator+%F0%9F%8E%AE;Building+The+Future+With+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=900&height=100&lines=AI+%2F+ML+Developer+%F0%9F%A4%96;Generative+AI+Enthusiast+%F0%9F%A7%A0;Game+Development+Creator+%F0%9F%8E%AE;Building+The+Future+With+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Generative%20AI-00D9FF?style=for-the-badge&logo=openai&logoColor=white" />
@@ -133,7 +133,7 @@ me.say_hi()
 
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Rocket.png" width="35" /> Featured Projects
+## 🚀 Featured Projects
 
 </div>
 
@@ -299,9 +299,9 @@ me.say_hi()
 
 <div align="center">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-5358d2c7-eac7-46ea-92e7-53b3dd4917ca.png" width="30" /> 2026 Vision & Goals
+## 🎯 2026 Vision & Goals
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
 
 </div>
 
@@ -328,7 +328,7 @@ Community & Growth
 
 <div align="center">
 
-## <img src="https://github.com/user-attachments/assets/4038836f-fbd0-464b-87a9-5d5c11b72a5d" width="30" /> Let's Connect & Collaborate
+## 💬 Let's Connect & Collaborate
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
