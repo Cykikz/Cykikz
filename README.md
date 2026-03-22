@@ -159,6 +159,24 @@ Community & Growth
 
 <div align="center">
 
+## 📊 GitHub Stats
+
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=Cykikz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&background=0d1117&stroke=00D9FF" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Cykikz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cykikz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
 ## 💬 Let's Connect & Collaborate
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
@@ -235,7 +253,7 @@ for fact, description in fun_facts.items():
 <h3 align="center">💖 Thanks for stopping by! Let's build the future together 🚀</h3>
 
 <h4 align="center">
-  
+
 *"The best way to predict the future is to invent it."* — Alan Kay
 
 </h4>
