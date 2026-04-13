@@ -112,7 +112,7 @@ me.say_hi()
 </details>
 
 <details open>
-<summary><b>🔧 Tools & Platforms</b></summary>
+<summary><b> Tools & Platforms</b></summary>
 <br>
 
 <div align="center">
