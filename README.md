@@ -171,15 +171,15 @@ Community & Growth
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/gmayank9999">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cykikz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cykikz&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<div align="center">
+  <a href="https://github.com/Cykikz">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Cykikz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Cykikz GitHub Stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cykikz&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800" alt="Cykikz Top Languages" />
+  </a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <br />
 
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
 <div align="center">
 
 ## 💬 Let's Connect & Collaborate
