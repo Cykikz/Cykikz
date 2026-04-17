@@ -169,19 +169,6 @@ Community & Growth
 
 </div>
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/Cykikz">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Cykikz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Cykikz GitHub Stats" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cykikz&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800" alt="Cykikz Top Languages" />
-  </a>
-
-  <br />
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
-<div align="center">
-
 ## 💬 Let's Connect & Collaborate
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
