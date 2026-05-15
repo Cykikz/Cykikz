@@ -258,3 +258,5 @@ for fact, description in fun_facts.items():
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,3&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
+
+See ya!
