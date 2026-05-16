@@ -163,8 +163,7 @@ Community & Growth
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=Cykikz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&background=0d1117&stroke=00D9FF" alt="GitHub Streak" />
-
+<img src="https://github-readme-streak-stats-8o15.vercel.app/?user=Cykikz&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&background=0d1117&stroke=00D9FF" alt="GitHub Streak" />
 <br>
 
 <div align="center">
